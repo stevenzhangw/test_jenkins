@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-void main(){
+int main(){
     printf("===c language====\n");
     printf("===111222====\n");
     return 0;
